@@ -1,0 +1,89 @@
+source,target,weight
+joe,bessie,7
+joe,myrtle,2
+joe,dick schofield,1
+joe,burt layton,1
+joe,fred,15
+joe,charley,62
+joe,chapter iii,2
+joe,pit,10
+joe,simpson,27
+joe,reddy,7
+joe,chapter iv the,3
+joe,bronson,9
+joe,dazzler,82
+joe,wilson,7
+joe,pete,109
+joe,bill,15
+joe,frisco kid,49
+joe,cockney,7
+joe,lee,5
+joe,nelson,19
+joe,chapter xvi,1
+joe,takin,3
+joe,hunter,3
+joe,grub,2
+joe,snug,3
+joe,tate,4
+bessie,bronson,6
+bessie,frisco kid,3
+dick schofield,burt layton,3
+fred,charley,71
+fred,jones,1
+fred,pit,2
+fred,simpson,1
+charley,chapter iii,1
+charley,pit,10
+charley,simpson,9
+charley,dazzler,1
+pit,chapter iv the,3
+pit,bronson,2
+bronson,pete,10
+bronson,frisco kid,3
+bronson,nelson,5
+bronson,tate,4
+dazzler,pete,81
+dazzler,stan,2
+dazzler,frisco kid,17
+dazzler,bill,13
+dazzler,lee,10
+dazzler,uncle sams,5
+dazzler,frenchy,2
+dazzler,nelson,9
+dazzler,jack robinson,2
+dazzler,takin,2
+dazzler,hunter,3
+dazzler,chapter xx perilous hours,1
+pete,frisco kid,17
+pete,bill,12
+pete,cockney,4
+pete,lee,4
+pete,stan,2
+pete,mush,2
+pete,uncle sams,3
+pete,nelson,46
+pete,sho,3
+pete,vaire,1
+pete,chapter xvi,2
+pete,frenchy,4
+pete,takin,2
+pete,grub,2
+pete,snug,3
+bill,cockney,6
+bill,lee,2
+frisco kid,lee,2
+frisco kid,nelson,3
+frisco kid,takin,2
+lee,grub,2
+nelson,chapter xvi,2
+nelson,frenchy,9
+nelson,snug,6
+nelson,chapter xx perilous hours,2
+nelson,takin,2
+jessie hilborn,alice,3
+jessie hilborn,pearl saythers,3
+jessie hilborn,sadie french,3
+alice,pearl saythers,3
+alice,sadie french,3
+pearl saythers,sadie french,3
+goliath,david,2
