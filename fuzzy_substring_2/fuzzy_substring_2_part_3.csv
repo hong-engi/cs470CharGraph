@@ -1,0 +1,14 @@
+source,target,weight
+pete,joe,8
+pete,uncle sams,1
+pete,dazzler,4
+pete,frisco kid,1
+pete,nelson,3
+joe,dazzler,3
+joe,lee,1
+joe,nelson,1
+joe,frisco kid,7
+joe,bessie,1
+uncle sams,dazzler,1
+dazzler,lee,1
+frisco kid,bessie,1

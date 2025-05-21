@@ -1,0 +1,16 @@
+source,target,weight
+pete,red nelson,8
+pete,joe,8
+pete,frisco kid,1
+pete,snug,1
+red nelson,frenchy,3
+red nelson,snug,1
+red nelson,joe,1
+red nelson,frisco kid,1
+joe,frisco kid,6
+joe,dazzler,4
+joe,bronson,1
+joe,tate,1
+frisco kid,dazzler,1
+dazzler,hunter,1
+bronson,tate,1

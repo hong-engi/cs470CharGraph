@@ -1,0 +1,18 @@
+source,target,weight
+bessie,joe,1
+bessie,bronson,1
+joe,fred,23
+joe,reddy,1
+joe,brick simpsons,3
+joe,pit,1
+bronson,bronsonsaid,1
+fred,pit,1
+fred,simpson,2
+pit,chapter iv the,1
+pearl saythers,alice,1
+pearl saythers,jessie hilborn,1
+pearl saythers,sadie french,1
+alice,jessie hilborn,1
+alice,sadie french,1
+jessie hilborn,sadie french,1
+dick schofield,burt layton,1
