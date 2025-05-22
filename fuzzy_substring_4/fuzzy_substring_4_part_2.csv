@@ -1,0 +1,25 @@
+source,target,weight
+david,goliath,2
+fred,dazzler,1
+dazzler,joe,44
+dazzler,stan,2
+dazzler,pete,36
+dazzler,frisco kid,10
+dazzler,bill,13
+dazzler,lee,6
+joe,wilson,7
+joe,bronson,2
+joe,pete,38
+joe,bill,15
+joe,frisco kid,7
+joe,cockney,7
+joe,lee,1
+joe,bessie,3
+stan,pete,2
+pete,frisco kid,9
+pete,bill,12
+pete,cockney,4
+pete,lee,2
+frisco kid,lee,2
+bill,cockney,6
+bill,lee,2

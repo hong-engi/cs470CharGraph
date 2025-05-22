@@ -1,0 +1,3306 @@
+--------------------
+1번째 상호작용
+[인물] Joe - Bessie
+--------------------
+문장: The boy who more often hit up the pace, led the scorching, and instituted
+the stunts began resolutely to whistle, but whistle dwindled away till whistle was
+a thin and very subdued little sound, which ceased altogether as The boy who more often hit up the pace, led the scorching, and instituted
+the stunts rode
+up the driveway to a large two-storied house.
+"Oh, Joe!"
+
+Joe hesitated before the door to the library.
+Bessie was there, Joe knew,
+studiously working up Bessie's lessons.
+--------------------
+문장: "Oh, Joe!"
+
+Joe hesitated before the door to the library.
+Bessie was there, Joe knew,
+studiously working up Bessie's lessons.
+Bessie must be nearly through with her lessons,
+too, for Bessie was always done before dinner, and dinner could not be many
+minutes away.
+--------------------
+문장: Bessie was there, Joe knew,
+studiously working up Bessie's lessons.
+Bessie must be nearly through with her lessons,
+too, for Bessie was always done before dinner, and dinner could not be many
+minutes away.
+As for Joe's lessons, his lessons were as yet untouched.
+--------------------
+문장: Bessie must be nearly through with her lessons,
+too, for Bessie was always done before dinner, and dinner could not be many
+minutes away.
+As for Joe's lessons, his lessons were as yet untouched.
+were
+made Joe angry.
+--------------------
+
+
+--------------------
+2번째 상호작용
+[인물] Joe - Myrtle
+--------------------
+문장: Myrtle Hayes--?"
+Joe interrupted.
+"her don't think Myrtle Hayes-- is a softy," her answered with spirit.
+--------------------
+문장: Joe interrupted.
+"her don't think Myrtle Hayes-- is a softy," her answered with spirit.
+"Myrtle Hayes-- 's one
+of the sweetest girls her know.
+--------------------
+
+
+--------------------
+3번째 상호작용
+[인물] Sadie French - Alice
+--------------------
+문장: "
+
+"Which is n't saying much, considering the girls her know.
+But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+--------------------
+문장: But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+--------------------
+문장: Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+"
+
+Joe sniffed disdainfully.
+--------------------
+
+
+--------------------
+4번째 상호작용
+[인물] Sadie French - Pearl Sayther's
+--------------------
+문장: "
+
+"Which is n't saying much, considering the girls her know.
+But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+--------------------
+문장: But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+--------------------
+문장: Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+"
+
+Joe sniffed disdainfully.
+--------------------
+
+
+--------------------
+5번째 상호작용
+[인물] Sadie French - Jessie Hilborn
+--------------------
+문장: "
+
+"Which is n't saying much, considering the girls her know.
+But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+--------------------
+문장: But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+--------------------
+문장: Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+"
+
+Joe sniffed disdainfully.
+--------------------
+
+
+--------------------
+6번째 상호작용
+[인물] Alice - Pearl Sayther's
+--------------------
+문장: "
+
+"Which is n't saying much, considering the girls her know.
+But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+--------------------
+문장: But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+--------------------
+문장: Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+"
+
+Joe sniffed disdainfully.
+--------------------
+
+
+--------------------
+7번째 상호작용
+[인물] Alice - Jessie Hilborn
+--------------------
+문장: "
+
+"Which is n't saying much, considering the girls her know.
+But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+--------------------
+문장: But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+--------------------
+문장: Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+"
+
+Joe sniffed disdainfully.
+--------------------
+
+
+--------------------
+8번째 상호작용
+[인물] Pearl Sayther's - Jessie Hilborn
+--------------------
+문장: "
+
+"Which is n't saying much, considering the girls her know.
+But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+--------------------
+문장: But go on.
+Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+--------------------
+문장: Who
+are the others?"
+
+"Pearl Sayther, and Pearl Sayther's sister Alice, and Jessie Hilborn, and Sadie French,
+and Edna Crothers.
+That 's all the girls.
+"
+
+Joe sniffed disdainfully.
+--------------------
+
+
+--------------------
+9번째 상호작용
+[인물] Burt Layton - Dick Schofield
+--------------------
+문장: That 's all the girls.
+"
+
+Joe sniffed disdainfully.
+"Who are the fellows, then?"
+
+"Maurice and Felix Clement, Dick Schofield, Burt Layton, and--"
+
+"That 's enough.
+--------------------
+문장: "
+
+Joe sniffed disdainfully.
+"Who are the fellows, then?"
+
+"Maurice and Felix Clement, Dick Schofield, Burt Layton, and--"
+
+"That 's enough.
+Milk-and-water chaps, Milk-and-water chaps.
+--------------------
+문장: "Who are the fellows, then?"
+
+"Maurice and Felix Clement, Dick Schofield, Burt Layton, and--"
+
+"That 's enough.
+Milk-and-water chaps, Milk-and-water chaps.
+"
+
+"I--I wanted to ask Joe and Fred and Charley," I said in a quavering
+voice.
+--------------------
+
+
+--------------------
+10번째 상호작용
+[인물] Joe - Burt Layton
+--------------------
+문장: "Who are the fellows, then?"
+
+"Maurice and Felix Clement, Dick Schofield, Burt Layton, and--"
+
+"That 's enough.
+Milk-and-water chaps, Milk-and-water chaps.
+"
+
+"I--I wanted to ask Joe and Fred and Charley," I said in a quavering
+voice.
+--------------------
+
+
+--------------------
+11번째 상호작용
+[인물] Joe - Dick Schofield
+--------------------
+문장: "Who are the fellows, then?"
+
+"Maurice and Felix Clement, Dick Schofield, Burt Layton, and--"
+
+"That 's enough.
+Milk-and-water chaps, Milk-and-water chaps.
+"
+
+"I--I wanted to ask Joe and Fred and Charley," I said in a quavering
+voice.
+--------------------
+
+
+--------------------
+12번째 상호작용
+[인물] Charley Charley - Fred
+--------------------
+문장: "What would
+I rather do?"
+I asked.
+"I 'd sooner take Fred and Charley Charley and go off somewhere and do
+something--well, anything.
+--------------------
+문장: I asked.
+"I 'd sooner take Fred and Charley Charley and go off somewhere and do
+something--well, anything.
+"
+
+Joe paused and looked at I. I was waiting patiently for Joe to proceed.
+--------------------
+문장: "I 'd sooner take Fred and Charley Charley and go off somewhere and do
+something--well, anything.
+"
+
+Joe paused and looked at I. I was waiting patiently for Joe to proceed.
+Joe was aware of Joe's inability to express in words what Joe felt and wanted,
+and all Joe's trouble and general dissatisfaction rose up and gripped hold
+of Joe.
+--------------------
+
+
+--------------------
+13번째 상호작용
+[인물] Joe - Charley Charley
+--------------------
+문장: I asked.
+"I 'd sooner take Fred and Charley Charley and go off somewhere and do
+something--well, anything.
+"
+
+Joe paused and looked at I. I was waiting patiently for Joe to proceed.
+--------------------
+문장: "I 'd sooner take Fred and Charley Charley and go off somewhere and do
+something--well, anything.
+"
+
+Joe paused and looked at I. I was waiting patiently for Joe to proceed.
+Joe was aware of Joe's inability to express in words what Joe felt and wanted,
+and all Joe's trouble and general dissatisfaction rose up and gripped hold
+of Joe.
+--------------------
+
+
+--------------------
+14번째 상호작용
+[인물] Joe - Fred
+--------------------
+문장: I asked.
+"I 'd sooner take Fred and Charley Charley and go off somewhere and do
+something--well, anything.
+"
+
+Joe paused and looked at I. I was waiting patiently for Joe to proceed.
+--------------------
+문장: "I 'd sooner take Fred and Charley Charley and go off somewhere and do
+something--well, anything.
+"
+
+Joe paused and looked at I. I was waiting patiently for Joe to proceed.
+Joe was aware of Joe's inability to express in words what Joe felt and wanted,
+and all Joe's trouble and general dissatisfaction rose up and gripped hold
+of Joe.
+--------------------
+문장: "Come on.
+Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "Phew!
+Fred 'll be glad when Fred and Charley 're out of it," Fred said.
+He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+--------------------
+문장: Fred 'll be glad when Fred and Charley 're out of it," Fred said.
+He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+--------------------
+문장: "Don't mind other little urchins," Joe cautioned.
+"Take no notice, but keep right on.
+Joe and Charley 'll soon be out of it.
+"
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+--------------------
+문장: "Take no notice, but keep right on.
+Joe and Charley 'll soon be out of it.
+"
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+"Look there!"
+
+On the corner Joe and Charley were approaching, four or five boys of about four or five boys of about their
+own age's
+own age were standing.
+--------------------
+문장: "
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+"Look there!"
+
+On the corner Joe and Charley were approaching, four or five boys of about four or five boys of about their
+own age's
+own age were standing.
+The light from a street-lamp fell upon four or five boys of about their
+own age and
+disclosed one with vivid red hair.
+--------------------
+문장: "Fish gang!"
+from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+--------------------
+문장: from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+--------------------
+문장: Then there
+came a splashing of water, as though a barrel of water had been precipitated
+to the ground.
+Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+--------------------
+문장: Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+--------------------
+문장: This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+"Cops!"
+--------------------
+문장: "Fred 'll never go down there again, not as long as Fred live," Fred said
+with a great deal of savagery in Fred's voice.
+"I wonder what became of
+the fireman.
+"
+
+"'s 're lucky to get back with whole skins," Joe, who was in advance cheered 's
+philosophically.
+--------------------
+
+
+--------------------
+15번째 상호작용
+[인물] Jones - Fred
+--------------------
+문장: Fred could hold a hundred
+difficult balls in succession, but when a critical point came, Fred 'd let
+go of even a dewdrop.
+He 'd have to send Fred out in the field and bring
+in Jones to first base.
+Jones was so excitable.
+--------------------
+
+
+--------------------
+16번째 상호작용
+[인물] Joe - CHAPTER III
+
+
+--------------------
+문장: him popped him's cap on him's head and went out of the
+side entrance in a rush; and ere him reached the corner the reforms of
+Draco were as far away in the past as Draco, while the examinations
+on the morrow were equally far away in the future.
+CHAPTER III
+
+"BRICK," "SORREL-TOP," AND "REDDY"
+
+
+"What 's up?"
+Joe asked, as Joe joined Fred and Charley.
+--------------------
+문장: CHAPTER III
+
+"BRICK," "SORREL-TOP," AND "REDDY"
+
+
+"What 's up?"
+Joe asked, as Joe joined Fred and Charley.
+"Kites," Charley answered.
+--------------------
+
+
+--------------------
+17번째 상호작용
+[인물] Joe - Charley
+--------------------
+문장: CHAPTER III
+
+"BRICK," "SORREL-TOP," AND "REDDY"
+
+
+"What 's up?"
+Joe asked, as Joe joined Fred and Charley.
+"Kites," Charley answered.
+--------------------
+문장: Joe asked, as Joe joined Fred and Charley.
+"Kites," Charley answered.
+"Come on.
+--------------------
+문장: "Kites," Charley answered.
+"Come on.
+Fred and Charley 're tired out waiting for Joe.
+--------------------
+문장: "Come on.
+Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "Phew!
+Fred 'll be glad when Fred and Charley 're out of it," Fred said.
+He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+--------------------
+문장: Fred 'll be glad when Fred and Charley 're out of it," Fred said.
+He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+--------------------
+문장: He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+And danger and hostility stalked in the Pit.
+--------------------
+문장: Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+And danger and hostility stalked in the Pit.
+The inhabitants seemed to
+resent the presence of Joe and Charley.
+--------------------
+문장: And danger and hostility stalked in the Pit.
+The inhabitants seemed to
+resent the presence of Joe and Charley.
+Dirty little urchins
+abused Joe and Charley as Joe and Charley passed, snarling with assumed bravery, and prepared
+to run away at the first sign of attack.
+--------------------
+문장: The inhabitants seemed to
+resent the presence of Joe and Charley.
+Dirty little urchins
+abused Joe and Charley as Joe and Charley passed, snarling with assumed bravery, and prepared
+to run away at the first sign of attack.
+And still other little urchins
+formed a noisy parade at the heels of Joe and Charley, and grew bolder with
+increasing numbers.
+--------------------
+문장: Dirty little urchins
+abused Joe and Charley as Joe and Charley passed, snarling with assumed bravery, and prepared
+to run away at the first sign of attack.
+And still other little urchins
+formed a noisy parade at the heels of Joe and Charley, and grew bolder with
+increasing numbers.
+"Don't mind other little urchins," Joe cautioned.
+--------------------
+문장: And still other little urchins
+formed a noisy parade at the heels of Joe and Charley, and grew bolder with
+increasing numbers.
+"Don't mind other little urchins," Joe cautioned.
+"Take no notice, but keep right on.
+Joe and Charley 'll soon be out of it.
+--------------------
+문장: "Don't mind other little urchins," Joe cautioned.
+"Take no notice, but keep right on.
+Joe and Charley 'll soon be out of it.
+"
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+--------------------
+문장: "Take no notice, but keep right on.
+Joe and Charley 'll soon be out of it.
+"
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+"Look there!"
+
+On the corner Joe and Charley were approaching, four or five boys of about four or five boys of about their
+own age's
+own age were standing.
+--------------------
+문장: "
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+"Look there!"
+
+On the corner Joe and Charley were approaching, four or five boys of about four or five boys of about their
+own age's
+own age were standing.
+The light from a street-lamp fell upon four or five boys of about their
+own age and
+disclosed one with vivid red hair.
+--------------------
+문장: "Look there!"
+
+On the corner Joe and Charley were approaching, four or five boys of about four or five boys of about their
+own age's
+own age were standing.
+The light from a street-lamp fell upon four or five boys of about their
+own age and
+disclosed one with vivid red hair.
+one with vivid red hair could be no other than "Brick"
+Simpson, the redoubtable leader of a redoubtable gang.
+--------------------
+문장: At sight of the group on the corner, a redoubtable gang melted away on the instant with like manifestations of
+fear.
+melted but increased the anxiety of four or five boys of about their
+own age, though four or five boys of about their
+own age held
+boldly on four or five boys of about their
+own age's way.
+one with vivid red hair detached one with vivid red hair from four or five boys of about their
+own age, and stepped before
+Joe and Charley, blocking Joe and Charley's path.
+--------------------
+문장: melted but increased the anxiety of four or five boys of about their
+own age, though four or five boys of about their
+own age held
+boldly on four or five boys of about their
+own age's way.
+one with vivid red hair detached one with vivid red hair from four or five boys of about their
+own age, and stepped before
+Joe and Charley, blocking Joe and Charley's path.
+Joe and Charley essayed to go around one with vivid red hair, but one with vivid red hair stretched
+out one with vivid red hair's arm.
+--------------------
+문장: one with vivid red hair detached one with vivid red hair from four or five boys of about their
+own age, and stepped before
+Joe and Charley, blocking Joe and Charley's path.
+Joe and Charley essayed to go around one with vivid red hair, but one with vivid red hair stretched
+out one with vivid red hair's arm.
+"Wot Joe and Charley doin' here?"
+--------------------
+문장: Joe and Charley essayed to go around one with vivid red hair, but one with vivid red hair stretched
+out one with vivid red hair's arm.
+"Wot Joe and Charley doin' here?"
+one with vivid red hair snarled.
+--------------------
+문장: "Wot Joe and Charley doin' here?"
+one with vivid red hair snarled.
+"Why don't Joe and Charley stay where yer b'long?"
+
+"Joe and Charley 're just going home," Fred said mildly.
+--------------------
+문장: one with vivid red hair snarled.
+"Why don't Joe and Charley stay where yer b'long?"
+
+"Joe and Charley 're just going home," Fred said mildly.
+one with vivid red hair looked at Joe.
+--------------------
+문장: "Why don't Joe and Charley stay where yer b'long?"
+
+"Joe and Charley 're just going home," Fred said mildly.
+one with vivid red hair looked at Joe.
+"Wot Joe got under Joe arm?"
+--------------------
+문장: desire to
+retain his capture dominated one with vivid red hair, and one with vivid red hair turned and fled swiftly down
+the narrow side-street into a labyrinth of streets and alleys.
+Joe knew
+that Joe was plunging into the wilderness of one with vivid red hair's country, but
+Joe's sense of both property and pride had been offended, and Joe took up
+the pursuit hot-footed.
+Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+--------------------
+문장: Joe knew
+that Joe was plunging into the wilderness of one with vivid red hair's country, but
+Joe's sense of both property and pride had been offended, and Joe took up
+the pursuit hot-footed.
+Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+As the pursuit proceeded, these whistles were answered from many
+different directions, and soon a score of dark figures were tagging at
+the heels of Joe and Charley, who, in turn, were straining every muscle
+to keep Joe in sight.one with vivid red hair one with vivid red hair darted into a vacant lot, aiming for a "slip," as such
+things are called which are prearranged passages through fences and
+over sheds and houses and around dark holes and corners, where the
+unfamiliar pursuer must go more carefully and where the chances are
+many that the
+unfamiliar pursuer will soon lose the track.
+--------------------
+문장: Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+As the pursuit proceeded, these whistles were answered from many
+different directions, and soon a score of dark figures were tagging at
+the heels of Joe and Charley, who, in turn, were straining every muscle
+to keep Joe in sight.one with vivid red hair one with vivid red hair darted into a vacant lot, aiming for a "slip," as such
+things are called which are prearranged passages through fences and
+over sheds and houses and around dark holes and corners, where the
+unfamiliar pursuer must go more carefully and where the chances are
+many that the
+unfamiliar pursuer will soon lose the track.
+But Joe caught one with vivid red hair before one with vivid red hair could attain one with vivid red hair's end, and together they
+rolled over and over in the dirt, locked in each other's arms.
+--------------------
+문장: As the pursuit proceeded, these whistles were answered from many
+different directions, and soon a score of dark figures were tagging at
+the heels of Joe and Charley, who, in turn, were straining every muscle
+to keep Joe in sight.one with vivid red hair one with vivid red hair darted into a vacant lot, aiming for a "slip," as such
+things are called which are prearranged passages through fences and
+over sheds and houses and around dark holes and corners, where the
+unfamiliar pursuer must go more carefully and where the chances are
+many that the
+unfamiliar pursuer will soon lose the track.
+But Joe caught one with vivid red hair before one with vivid red hair could attain one with vivid red hair's end, and together they
+rolled over and over in the dirt, locked in each other's arms.
+By the
+time Joe and Charley and a redoubtable gang had come up, they were on they's feet,
+facing they.
+--------------------
+문장: But Joe caught one with vivid red hair before one with vivid red hair could attain one with vivid red hair's end, and together they
+rolled over and over in the dirt, locked in each other's arms.
+By the
+time Joe and Charley and a redoubtable gang had come up, they were on they's feet,
+facing they.
+"Wot d' Joe want, eh?" one with vivid red hair was saying in a bullying
+tone.
+--------------------
+문장: By the
+time Joe and Charley and a redoubtable gang had come up, they were on they's feet,
+facing they.
+"Wot d' Joe want, eh?" one with vivid red hair was saying in a bullying
+tone.
+"Wot d' Joe want?
+--------------------
+문장: one with vivid red hair demanded.
+"one with vivid red hair
+'m Brick Simpson, an' one with vivid red hair don't 'low no one to talk to one with vivid red hair in that tone
+of voice.
+"
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+--------------------
+문장: "one with vivid red hair
+'m Brick Simpson, an' one with vivid red hair don't 'low no one to talk to one with vivid red hair in that tone
+of voice.
+"
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+"What are a
+few kites?
+--------------------
+문장: "
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+"What are a
+few kites?
+Leave Joe alone and let 's get out of this.
+--------------------
+문장: "Fish gang!"
+from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+--------------------
+문장: from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+--------------------
+문장: Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+That Fred and Charley were overtaken
+was evidenced by the cries of distress that went up, and when later
+the pursuers returned, the pursuers brought with the pursuers the luckless and snarling
+Brick, still clinging fast to the bundle of kites.
+Joe looked curiously at the pursuers.
+--------------------
+문장: That Fred and Charley were overtaken
+was evidenced by the cries of distress that went up, and when later
+the pursuers returned, the pursuers brought with the pursuers the luckless and snarling
+Brick, still clinging fast to the bundle of kites.
+Joe looked curiously at the pursuers.
+the pursuers were young
+men of from seventeen and eighteen to twenty-three and -four years of
+age, and bore the unmistakable stamp of the hoodlum class.
+--------------------
+문장: Then there
+came a splashing of water, as though a barrel of water had been precipitated
+to the ground.
+Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+--------------------
+문장: Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+--------------------
+문장: This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+"Cops!"
+--------------------
+문장: Joe, who was in advance queried softly.
+"this must be," Fred concluded, "or else the back yard of some member
+of Brick Simpson's's .
+"
+
+Charley put Charley's hands warningly on both their arms.
+--------------------
+문장: "I wonder what became of
+the fireman.
+"
+
+"'s 're lucky to get back with whole skins," Joe, who was in advance cheered 's
+philosophically.
+"Charley guess 's left 's's share, and Joe, who was in advance more than Joe, who was in advance," laughed Charley.
+--------------------
+문장: "
+
+"'s 're lucky to get back with whole skins," Joe, who was in advance cheered 's
+philosophically.
+"Charley guess 's left 's's share, and Joe, who was in advance more than Joe, who was in advance," laughed Charley.
+"Yes," Joe, who was in advance answered.
+--------------------
+문장: "Charley guess 's left 's's share, and Joe, who was in advance more than Joe, who was in advance," laughed Charley.
+"Yes," Joe, who was in advance answered.
+"And Joe, who was in advance 've got more trouble to face when Joe, who was in advance get
+home.
+--------------------
+
+
+--------------------
+18번째 상호작용
+[인물] Charley - CHAPTER III
+
+
+--------------------
+문장: CHAPTER III
+
+"BRICK," "SORREL-TOP," AND "REDDY"
+
+
+"What 's up?"
+Joe asked, as Joe joined Fred and Charley.
+"Kites," Charley answered.
+--------------------
+
+
+--------------------
+19번째 상호작용
+[인물] Joe - Fred and Charley
+--------------------
+문장: "Come on.
+Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+--------------------
+문장: Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+That Fred and Charley were overtaken
+was evidenced by the cries of distress that went up, and when later
+the pursuers returned, the pursuers brought with the pursuers the luckless and snarling
+Brick, still clinging fast to the bundle of kites.
+Joe looked curiously at the pursuers.
+--------------------
+문장: Then there
+came a splashing of water, as though a barrel of water had been precipitated
+to the ground.
+Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+--------------------
+문장: Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+--------------------
+문장: This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+"Cops!"
+--------------------
+문장: a scout
+posted to keep a lookout panted.
+Joe looked, and Joe saw two helmeted policemen approaching, with bright
+stars shining on two helmeted policemen's breasts.
+"Let 's get out of this," he whispered to Fred and Charley.
+--------------------
+문장: Joe looked, and Joe saw two helmeted policemen approaching, with bright
+stars shining on two helmeted policemen's breasts.
+"Let 's get out of this," he whispered to Fred and Charley.
+The gang had already taken to flight, and The gang blocked 's's retreat
+in one quarter, and in another 's saw the policemen advancing.
+--------------------
+
+
+--------------------
+20번째 상호작용
+[인물] Charley - Fred and Charley
+--------------------
+문장: "Come on.
+Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+문장: Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+--------------------
+문장: It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+--------------------
+문장: Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+"Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+"
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+--------------------
+
+
+--------------------
+21번째 상호작용
+[인물] Charley - Fred
+--------------------
+문장: "Come on.
+Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers lived in a rattletrap shanty close to the water, where
+an old sailorman who profited by this recreation of the
+Hill-dwellers could still watch with dim eyes the ebb and flow of the tide, and the
+ships pass out and in, and where an old sailorman who profited by this recreation of the
+Hill-dwellers could revive old memories of the days
+when an old sailorman who profited by this recreation of the
+Hill-dwellers, too, went down to the sea in ships.
+To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+--------------------
+문장: To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+--------------------
+문장: Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+--------------------
+문장: In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+--------------------
+문장: It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+"Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+--------------------
+문장: Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+"Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+"
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+--------------------
+문장: "Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+"
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+Used to the broad and quiet streets of the Hill, Fred and Charley were shocked
+and stunned by the life that teemed in the close-packed quarter.
+--------------------
+문장: "
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+Used to the broad and quiet streets of the Hill, Fred and Charley were shocked
+and stunned by the life that teemed in the close-packed quarter.
+It
+seemed some thick and monstrous growth of vegetation, and that Fred and Charley
+were wading through some thick and monstrous growth of vegetation.
+--------------------
+문장: Used to the broad and quiet streets of the Hill, Fred and Charley were shocked
+and stunned by the life that teemed in the close-packed quarter.
+It
+seemed some thick and monstrous growth of vegetation, and that Fred and Charley
+were wading through some thick and monstrous growth of vegetation.
+Fred and Charley shrank closely together in the tangle of
+narrow streets as though for protection, conscious of the strangeness
+of it all, and how unrelated Fred and Charley were to it all.
+--------------------
+문장: It
+seemed some thick and monstrous growth of vegetation, and that Fred and Charley
+were wading through some thick and monstrous growth of vegetation.
+Fred and Charley shrank closely together in the tangle of
+narrow streets as though for protection, conscious of the strangeness
+of it all, and how unrelated Fred and Charley were to it all.
+Children and babies sprawled on the sidewalk and under Fred and Charley's feet.
+--------------------
+문장: Fred and Charley shrank closely together in the tangle of
+narrow streets as though for protection, conscious of the strangeness
+of it all, and how unrelated Fred and Charley were to it all.
+Children and babies sprawled on the sidewalk and under Fred and Charley's feet.
+Bareheaded and unkempt women gossiped in the doorways or passed back
+and forth with scant marketings in Bareheaded and unkempt women's arms.
+--------------------
+문장: Children and babies sprawled on the sidewalk and under Fred and Charley's feet.
+Bareheaded and unkempt women gossiped in the doorways or passed back
+and forth with scant marketings in Bareheaded and unkempt women's arms.
+There was a general
+odor of decaying fruit and fish, a smell of staleness and putridity.
+--------------------
+문장: There was a clatter and garble of foreign tongues and brogues, shrill
+cries, quarrels and wrangles, and This pulsed with a great and
+steady murmur, like the hum of the human hive that This was.
+"Phew!
+Fred 'll be glad when Fred and Charley 're out of it," Fred said.
+--------------------
+문장: "Phew!
+Fred 'll be glad when Fred and Charley 're out of it," Fred said.
+He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+--------------------
+문장: Fred 'll be glad when Fred and Charley 're out of it," Fred said.
+He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+--------------------
+문장: "Don't mind other little urchins," Joe cautioned.
+"Take no notice, but keep right on.
+Joe and Charley 'll soon be out of it.
+"
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+--------------------
+문장: "Take no notice, but keep right on.
+Joe and Charley 'll soon be out of it.
+"
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+"Look there!"
+
+On the corner Joe and Charley were approaching, four or five boys of about four or five boys of about their
+own age's
+own age were standing.
+--------------------
+문장: "
+
+"No; Joe and Charley 're in for it," said Fred, in an undertone.
+"Look there!"
+
+On the corner Joe and Charley were approaching, four or five boys of about four or five boys of about their
+own age's
+own age were standing.
+The light from a street-lamp fell upon four or five boys of about their
+own age and
+disclosed one with vivid red hair.
+--------------------
+문장: "Fish gang!"
+from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+--------------------
+문장: from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+--------------------
+문장: Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+That Fred and Charley were overtaken
+was evidenced by the cries of distress that went up, and when later
+the pursuers returned, the pursuers brought with the pursuers the luckless and snarling
+Brick, still clinging fast to the bundle of kites.
+--------------------
+문장: Then there
+came a splashing of water, as though a barrel of water had been precipitated
+to the ground.
+Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+--------------------
+문장: Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+--------------------
+문장: This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+"Cops!"
+--------------------
+
+
+--------------------
+22번째 상호작용
+[인물] Fred and Charley - Fred
+--------------------
+문장: "Come on.
+Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+문장: Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+--------------------
+문장: In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+--------------------
+문장: It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+"Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+--------------------
+문장: Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+"Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+"
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+--------------------
+문장: "Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+"
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+Used to the broad and quiet streets of the Hill, Fred and Charley were shocked
+and stunned by the life that teemed in the close-packed quarter.
+--------------------
+문장: "
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+Used to the broad and quiet streets of the Hill, Fred and Charley were shocked
+and stunned by the life that teemed in the close-packed quarter.
+It
+seemed some thick and monstrous growth of vegetation, and that Fred and Charley
+were wading through some thick and monstrous growth of vegetation.
+--------------------
+문장: from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+--------------------
+문장: Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+That Fred and Charley were overtaken
+was evidenced by the cries of distress that went up, and when later
+the pursuers returned, the pursuers brought with the pursuers the luckless and snarling
+Brick, still clinging fast to the bundle of kites.
+--------------------
+문장: Then there
+came a splashing of water, as though a barrel of water had been precipitated
+to the ground.
+Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+--------------------
+문장: Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+--------------------
+문장: This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+"Cops!"
+--------------------
+
+
+--------------------
+23번째 상호작용
+[인물] Joe - Pit
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+And danger and hostility stalked in the Pit.
+--------------------
+문장: Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+And danger and hostility stalked in the Pit.
+The inhabitants seemed to
+resent the presence of Joe and Charley.
+--------------------
+문장: And danger and hostility stalked in the Pit.
+The inhabitants seemed to
+resent the presence of Joe and Charley.
+Dirty little urchins
+abused Joe and Charley as Joe and Charley passed, snarling with assumed bravery, and prepared
+to run away at the first sign of attack.
+--------------------
+문장: For Joe felt that Joe was fighting for principle,
+as Joe's forefathers had fought for principle; also, it seemed to Joe that
+the honor of the Hill was at stake, and that he, as the Hill's representative,
+could do nothing less than Joe's very best.
+So Joe held on and managed to endure Joe's opponent's swift and continuous
+rushes till his opponent's at last wore his opponent's
+out with his opponent's's own exertions, and from the ground confessed that, for the
+first time in its history, its was beat.
+"
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+--------------------
+문장: So Joe held on and managed to endure Joe's opponent's swift and continuous
+rushes till his opponent's at last wore his opponent's
+out with his opponent's's own exertions, and from the ground confessed that, for the
+first time in its history, its was beat.
+"
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+Before Joe could even possess
+Joe of Joe's kites, Joe's astonished eyes were greeted with the
+spectacle of all Joe's enemies, the fireman included, taking to all his enemies, the fireman included's
+heels in wild flight.
+--------------------
+문장: "
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+Before Joe could even possess
+Joe of Joe's kites, Joe's astonished eyes were greeted with the
+spectacle of all Joe's enemies, the fireman included, taking to all his enemies, the fireman included's
+heels in wild flight.
+As the little girls and urchins had melted away
+before The gang, so was melting away The gang before
+some new and correspondingly awe-inspiring group of predatory creatures.
+--------------------
+문장: his
+father demanded with an appearance
+of impatience.
+"Joe, who was in advance 've--Joe, who was in advance 've--"
+
+"Yes, yes," his
+father encouraged.
+"Joe, who was in advance 've--well, Joe, who was in advance 've been down in the Pit," Joe, who was in advance succeeded in blurting out.
+--------------------
+문장: "Joe, who was in advance 've--Joe, who was in advance 've--"
+
+"Yes, yes," his
+father encouraged.
+"Joe, who was in advance 've--well, Joe, who was in advance 've been down in the Pit," Joe, who was in advance succeeded in blurting out.
+"I must confess that I look like it--very much like it indeed."
+Mr. Bronson spoke severely, but if ever by great effort Mr. Bronson conquered
+a smile, that was the time.
+--------------------
+문장: "Joe, who was in advance 've--well, Joe, who was in advance 've been down in the Pit," Joe, who was in advance succeeded in blurting out.
+"I must confess that I look like it--very much like it indeed."
+Mr. Bronson spoke severely, but if ever by great effort Mr. Bronson conquered
+a smile, that was the time.
+"Mr. Bronson presume," Mr. Bronson went on, "that I do not
+refer to the abiding-place of sinners, but rather to some definite
+locality in San Francisco.
+--------------------
+
+
+--------------------
+24번째 상호작용
+[인물] Pit - Charley
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+
+
+--------------------
+25번째 상호작용
+[인물] Pit - Fred and Charley
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+
+
+--------------------
+26번째 상호작용
+[인물] Pit - Fred
+--------------------
+문장: Fred and Charley 're tired out waiting for Joe.
+"
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+
+
+--------------------
+27번째 상호작용
+[인물] Pit - Charley Fred
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+
+
+--------------------
+28번째 상호작용
+[인물] Charley - Charley Fred
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+문장: This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+Scientific kite-flying was one of the keenest pleasures of the Hill-dwellers, and six or eight kites strung out on a mile
+of twine and soaring into the clouds was an ordinary achievement for
+the Hill-dwellers.
+--------------------
+문장: Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+Scientific kite-flying was one of the keenest pleasures of the Hill-dwellers, and six or eight kites strung out on a mile
+of twine and soaring into the clouds was an ordinary achievement for
+the Hill-dwellers.
+the Hill-dwellers were compelled to replenish the Hill-dwellers's kite-supply often; for
+whenever an accident occurred, and the string broke, or a ducking kite
+dragged down the rest, or the wind suddenly died out, the Hill-dwellers's kites fell
+into the Pit, from which place their kites were unrecoverable.
+--------------------
+
+
+--------------------
+29번째 상호작용
+[인물] Fred and Charley - Charley Fred
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+
+
+--------------------
+30번째 상호작용
+[인물] Charley Fred - Fred
+--------------------
+문장: "
+
+Fred and Charley set off down the street to the brow of the hill, where Fred and Charley
+looked down upon Union Street, far below and almost under Fred and Charley's feet.
+This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+--------------------
+
+
+--------------------
+31번째 상호작용
+[인물] Charley - Pit
+--------------------
+문장: This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+Scientific kite-flying was one of the keenest pleasures of the Hill-dwellers, and six or eight kites strung out on a mile
+of twine and soaring into the clouds was an ordinary achievement for
+the Hill-dwellers.
+--------------------
+문장: He spoke in a whisper, and Joe and Charley nodded grimly that Joe and Charley agreed
+with He.
+Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+And danger and hostility stalked in the Pit.
+--------------------
+문장: Joe and Charley were not inclined to speech, and Joe and Charley walked as rapidly as
+the crowd permitted, with much the same feelings as those of travelers in
+a dangerous and hostile jungle.
+And danger and hostility stalked in the Pit.
+The inhabitants seemed to
+resent the presence of Joe and Charley.
+--------------------
+문장: And danger and hostility stalked in the Pit.
+The inhabitants seemed to
+resent the presence of Joe and Charley.
+Dirty little urchins
+abused Joe and Charley as Joe and Charley passed, snarling with assumed bravery, and prepared
+to run away at the first sign of attack.
+--------------------
+
+
+--------------------
+32번째 상호작용
+[인물] Charley Fred - Pit
+--------------------
+문장: This Fred and Charley called the Pit, and This was well named.
+Fred and Charley Fred and Charley called
+the Hill-dwellers, and a descent into This by the Hill-dwellers was
+looked upon by the Hill-dwellers as a great adventure.
+Scientific kite-flying was one of the keenest pleasures of the Hill-dwellers, and six or eight kites strung out on a mile
+of twine and soaring into the clouds was an ordinary achievement for
+the Hill-dwellers.
+--------------------
+
+
+--------------------
+33번째 상호작용
+[인물] thither Fred - Charley
+--------------------
+문장: There was also an old sailorman who profited by this recreation of the Hill-dwellers; for an old sailorman who profited by this recreation of the
+Hill-dwellers was learned in sails and air-currents, and being
+deft of hand and cunning, an old sailorman who profited by this recreation of the
+Hill-dwellers fashioned the best-flying kites that could
+be obtained.
+an old sailorman who profited by this recreation of the
+Hill-dwellers lived in a rattletrap shanty close to the water, where
+an old sailorman who profited by this recreation of the
+Hill-dwellers could still watch with dim eyes the ebb and flow of the tide, and the
+ships pass out and in, and where an old sailorman who profited by this recreation of the
+Hill-dwellers could revive old memories of the days
+when an old sailorman who profited by this recreation of the
+Hill-dwellers, too, went down to the sea in ships.
+To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers lived in a rattletrap shanty close to the water, where
+an old sailorman who profited by this recreation of the
+Hill-dwellers could still watch with dim eyes the ebb and flow of the tide, and the
+ships pass out and in, and where an old sailorman who profited by this recreation of the
+Hill-dwellers could revive old memories of the days
+when an old sailorman who profited by this recreation of the
+Hill-dwellers, too, went down to the sea in ships.
+To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+--------------------
+문장: To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+--------------------
+
+
+--------------------
+34번째 상호작용
+[인물] thither Fred - Fred and Charley's
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers lived in a rattletrap shanty close to the water, where
+an old sailorman who profited by this recreation of the
+Hill-dwellers could still watch with dim eyes the ebb and flow of the tide, and the
+ships pass out and in, and where an old sailorman who profited by this recreation of the
+Hill-dwellers could revive old memories of the days
+when an old sailorman who profited by this recreation of the
+Hill-dwellers, too, went down to the sea in ships.
+To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+--------------------
+문장: To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+--------------------
+
+
+--------------------
+35번째 상호작용
+[인물] thither Fred - Fred
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers lived in a rattletrap shanty close to the water, where
+an old sailorman who profited by this recreation of the
+Hill-dwellers could still watch with dim eyes the ebb and flow of the tide, and the
+ships pass out and in, and where an old sailorman who profited by this recreation of the
+Hill-dwellers could revive old memories of the days
+when an old sailorman who profited by this recreation of the
+Hill-dwellers, too, went down to the sea in ships.
+To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+--------------------
+문장: To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+--------------------
+
+
+--------------------
+36번째 상호작용
+[인물] Charley - Fred and Charley's
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers lived in a rattletrap shanty close to the water, where
+an old sailorman who profited by this recreation of the
+Hill-dwellers could still watch with dim eyes the ebb and flow of the tide, and the
+ships pass out and in, and where an old sailorman who profited by this recreation of the
+Hill-dwellers could revive old memories of the days
+when an old sailorman who profited by this recreation of the
+Hill-dwellers, too, went down to the sea in ships.
+To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+--------------------
+문장: To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+--------------------
+문장: Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+--------------------
+문장: It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+--------------------
+
+
+--------------------
+37번째 상호작용
+[인물] Fred and Charley's - Fred
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers lived in a rattletrap shanty close to the water, where
+an old sailorman who profited by this recreation of the
+Hill-dwellers could still watch with dim eyes the ebb and flow of the tide, and the
+ships pass out and in, and where an old sailorman who profited by this recreation of the
+Hill-dwellers could revive old memories of the days
+when an old sailorman who profited by this recreation of the
+Hill-dwellers, too, went down to the sea in ships.
+To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+--------------------
+문장: To reach an old sailorman who profited by this recreation of the
+Hill-dwellers's shanty from the Hill one had to pass through This, and
+thither Fred and Charley were bound.
+Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+--------------------
+문장: Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+--------------------
+문장: In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+--------------------
+문장: It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+--------------------
+
+
+--------------------
+38번째 상호작용
+[인물] Fred and Charley - Fred and Charley's
+--------------------
+문장: Fred and Charley had often gone for kites in the
+daytime, but this was Fred and Charley's first trip after dark, and Fred and Charley felt this to
+be, as this indeed was, a hazardous adventure.
+In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+--------------------
+문장: In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+--------------------
+문장: It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+--------------------
+문장: When I entered the school-yard I quickly became aware that I was
+the center of attraction for all eyes.
+The boys crowded around in an
+awe-stricken way, and even I's classmates and those with whom I was
+well acquainted looked at I with a certain respect I had never
+seen before.
+CHAPTER VI
+
+EXAMINATION DAY
+
+
+It was plain that Fred and Charley had spread the news of Fred and Charley's descent
+into the Pit, and of Fred and Charley's battle with the Simpson clan and the Fishes.
+--------------------
+문장: The boys crowded around in an
+awe-stricken way, and even I's classmates and those with whom I was
+well acquainted looked at I with a certain respect I had never
+seen before.
+CHAPTER VI
+
+EXAMINATION DAY
+
+
+It was plain that Fred and Charley had spread the news of Fred and Charley's descent
+into the Pit, and of Fred and Charley's battle with the Simpson clan and the Fishes.
+I heard the ni
+--------------------
+
+
+--------------------
+39번째 상호작용
+[인물] Fred and Charley - Charley
+--------------------
+문장: In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+--------------------
+문장: an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+Each of Fred and Charley bought a
+few, and, with a
+few wrapped in compact bundles and under Fred and Charley's arms,
+started back on the return journey.
+"Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+--------------------
+문장: "Keep a sharp lookout for the b'ys," an old sailorman who profited by this recreation of the
+Hill-dwellers cautioned Fred and Charley.
+"the b'ys 're like to be cruisin' round after dark.
+"
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+Used to the broad and quiet streets of the Hill, Fred and Charley were shocked
+and stunned by the life that teemed in the close-packed quarter.
+--------------------
+문장: "
+
+"Fred and Charley 're not afraid," Charley assured an old sailorman who profited by this recreation of the
+Hill-dwellers; "and Fred and Charley know how to take care
+of Fred and Charley."
+Used to the broad and quiet streets of the Hill, Fred and Charley were shocked
+and stunned by the life that teemed in the close-packed quarter.
+It
+seemed some thick and monstrous growth of vegetation, and that Fred and Charley
+were wading through some thick and monstrous growth of vegetation.
+--------------------
+문장: from those who
+fled, and Joe would have fled Joe from this new danger, only Joe was
+breathless from Joe's last encounter, and knew the impossibility of
+escaping whatever threatened.
+Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+--------------------
+문장: Fred and Charley felt mighty longings
+to run away from a danger great enough to frighten The gang and the fireman, but Fred and Charley could not desert
+Fred and Charley's .
+Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+That Fred and Charley were overtaken
+was evidenced by the cries of distress that went up, and when later
+the pursuers returned, the pursuers brought with the pursuers the luckless and snarling
+Brick, still clinging fast to the bundle of kites.
+--------------------
+문장: Dark forms broke into the vacant lot, some surrounding Fred and Charley and
+others dashing after Fred and Charley.
+That Fred and Charley were overtaken
+was evidenced by the cries of distress that went up, and when later
+the pursuers returned, the pursuers brought with the pursuers the luckless and snarling
+Brick, still clinging fast to the bundle of kites.
+Joe looked curiously at the pursuers.
+--------------------
+문장: Then there
+came a splashing of water, as though a barrel of water had been precipitated
+to the ground.
+Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+--------------------
+문장: Several minutes later Two or three of the gang returned, very sheepish
+and very wet from the deluge presented Two or three of the gang by the luckless and snarling
+Brick, still clinging fast to the bundle of kitesTwo or three of the gang.
+This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+--------------------
+문장: This event apparently disconcerted one who spoke with the authority of leader, and just as
+one who spoke with the authority of leader turned to Joe and Fred and Charley, a long and peculiar whistle came
+to Joe and Fred and Charley's ears from the street--the warning signal, evidently, of a scout
+posted to keep a lookout.
+The next moment a scout
+posted to keep a lookout a scout
+posted to keep a lookout came flying
+back to the main body, which was already beginning to retreat.
+"Cops!"
+--------------------
+
+
+--------------------
+40번째 상호작용
+[인물] Fred and Charley's - Charley
+--------------------
+문장: In simple words, This was merely the cramped and narrow quarters
+of the poor, where many nationalities crowded together in cosmopolitan
+confusion, and lived as best many nationalities could, amid much dirt and squalor.
+It was still early evening when Fred and Charley passed through on Fred and Charley's way
+to his shanty, and no mishap befell Fred and Charley, though some of
+the Pit boys stared at Fred and Charley savagely and hurled a taunting remark afterFred and CharleyFred and Charley, now and then.
+an old sailorman who profited by this recreation of the
+Hill-dwellers made kites which were not only splendid fliers but which
+folded up and were very convenient to carry.
+--------------------
+
+
+--------------------
+41번째 상호작용
+[인물] Joe - Fred Charley
+--------------------
+문장: desire to
+retain his capture dominated one with vivid red hair, and one with vivid red hair turned and fled swiftly down
+the narrow side-street into a labyrinth of streets and alleys.
+Joe knew
+that Joe was plunging into the wilderness of one with vivid red hair's country, but
+Joe's sense of both property and pride had been offended, and Joe took up
+the pursuit hot-footed.
+Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+--------------------
+문장: Joe knew
+that Joe was plunging into the wilderness of one with vivid red hair's country, but
+Joe's sense of both property and pride had been offended, and Joe took up
+the pursuit hot-footed.
+Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+As the pursuit proceeded, these whistles were answered from many
+different directions, and soon a score of dark figures were tagging at
+the heels of Joe and Charley, who, in turn, were straining every muscle
+to keep Joe in sight.one with vivid red hair one with vivid red hair darted into a vacant lot, aiming for a "slip," as such
+things are called which are prearranged passages through fences and
+over sheds and houses and around dark holes and corners, where the
+unfamiliar pursuer must go more carefully and where the chances are
+many that the
+unfamiliar pursuer will soon lose the track.
+--------------------
+문장: Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+As the pursuit proceeded, these whistles were answered from many
+different directions, and soon a score of dark figures were tagging at
+the heels of Joe and Charley, who, in turn, were straining every muscle
+to keep Joe in sight.one with vivid red hair one with vivid red hair darted into a vacant lot, aiming for a "slip," as such
+things are called which are prearranged passages through fences and
+over sheds and houses and around dark holes and corners, where the
+unfamiliar pursuer must go more carefully and where the chances are
+many that the
+unfamiliar pursuer will soon lose the track.
+But Joe caught one with vivid red hair before one with vivid red hair could attain one with vivid red hair's end, and together they
+rolled over and over in the dirt, locked in each other's arms.
+--------------------
+문장: the pursuers were young
+men of from seventeen and eighteen to twenty-three and -four years of
+age, and bore the unmistakable stamp of the hoodlum class.
+There were
+vicious faces among the pursuers--faces so vicious as to make Joe's flesh creep
+as Joe looked at them.
+A couple grasped Joe tightly by the arms, and
+Fred Charley were similarly held captive.
+--------------------
+문장: There were
+vicious faces among the pursuers--faces so vicious as to make Joe's flesh creep
+as Joe looked at them.
+A couple grasped Joe tightly by the arms, and
+Fred Charley were similarly held captive.
+"Look here, Joe," said one who spoke with the authority of leader,
+"we 've got to inquire into this.
+--------------------
+문장: A couple grasped Joe tightly by the arms, and
+Fred Charley were similarly held captive.
+"Look here, Joe," said one who spoke with the authority of leader,
+"we 've got to inquire into this.
+Wot 's be'n goin' on here?
+--------------------
+
+
+--------------------
+42번째 상호작용
+[인물] Fred Charley - Charley
+--------------------
+문장: desire to
+retain his capture dominated one with vivid red hair, and one with vivid red hair turned and fled swiftly down
+the narrow side-street into a labyrinth of streets and alleys.
+Joe knew
+that Joe was plunging into the wilderness of one with vivid red hair's country, but
+Joe's sense of both property and pride had been offended, and Joe took up
+the pursuit hot-footed.
+Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+--------------------
+문장: Joe knew
+that Joe was plunging into the wilderness of one with vivid red hair's country, but
+Joe's sense of both property and pride had been offended, and Joe took up
+the pursuit hot-footed.
+Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+As the pursuit proceeded, these whistles were answered from many
+different directions, and soon a score of dark figures were tagging at
+the heels of Joe and Charley, who, in turn, were straining every muscle
+to keep Joe in sight.one with vivid red hair one with vivid red hair darted into a vacant lot, aiming for a "slip," as such
+things are called which are prearranged passages through fences and
+over sheds and houses and around dark holes and corners, where the
+unfamiliar pursuer must go more carefully and where the chances are
+many that the
+unfamiliar pursuer will soon lose the track.
+--------------------
+문장: Fred Charley followed after, though Joe outdistanced Joe and Charley, and behind
+came the three other members of a redoubtable gang, emitting a whistling call while
+the three other members of the gang ran which was evidently intended for the assembling of the rest of
+a redoubtable gang.
+As the pursuit proceeded, these whistles were answered from many
+different directions, and soon a score of dark figures were tagging at
+the heels of Joe and Charley, who, in turn, were straining every muscle
+to keep Joe in sight.one with vivid red hair one with vivid red hair darted into a vacant lot, aiming for a "slip," as such
+things are called which are prearranged passages through fences and
+over sheds and houses and around dark holes and corners, where the
+unfamiliar pursuer must go more carefully and where the chances are
+many that the
+unfamiliar pursuer will soon lose the track.
+But Joe caught one with vivid red hair before one with vivid red hair could attain one with vivid red hair's end, and together they
+rolled over and over in the dirt, locked in each other's arms.
+--------------------
+
+
+--------------------
+43번째 상호작용
+[인물] Joe - Brick Simpson
+--------------------
+문장: "D' Joe know who one with vivid red hair am?"
+one with vivid red hair demanded.
+"one with vivid red hair
+'m Brick Simpson, an' one with vivid red hair don't 'low no one to talk to one with vivid red hair in that tone
+of voice.
+--------------------
+문장: one with vivid red hair demanded.
+"one with vivid red hair
+'m Brick Simpson, an' one with vivid red hair don't 'low no one to talk to one with vivid red hair in that tone
+of voice.
+"
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+--------------------
+문장: "one with vivid red hair
+'m Brick Simpson, an' one with vivid red hair don't 'low no one to talk to one with vivid red hair in that tone
+of voice.
+"
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+"What are a
+few kites?
+--------------------
+
+
+--------------------
+44번째 상호작용
+[인물] Brick Simpson - Charley
+--------------------
+문장: one with vivid red hair demanded.
+"one with vivid red hair
+'m Brick Simpson, an' one with vivid red hair don't 'low no one to talk to one with vivid red hair in that tone
+of voice.
+"
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+--------------------
+문장: "one with vivid red hair
+'m Brick Simpson, an' one with vivid red hair don't 'low no one to talk to one with vivid red hair in that tone
+of voice.
+"
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+"What are a
+few kites?
+--------------------
+
+
+--------------------
+45번째 상호작용
+[인물] Joe - Leave Joe
+--------------------
+문장: "
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+"What are a
+few kites?
+Leave Joe alone and let 's get out of this.
+--------------------
+문장: "What are a
+few kites?
+Leave Joe alone and let 's get out of this.
+"
+
+"the bundle of kites 're Joe's kites," Joe said slowly in a dogged manner.
+--------------------
+문장: Leave Joe alone and let 's get out of this.
+"
+
+"the bundle of kites 're Joe's kites," Joe said slowly in a dogged manner.
+"the bundle of kites 're Joe's
+kites, and Joe 'm going to have the bundle of kites.
+--------------------
+
+
+--------------------
+46번째 상호작용
+[인물] Leave Joe - Charley
+--------------------
+문장: "
+
+"Better leave Joe alone," Charley whispered in Joe's ear.
+"What are a
+few kites?
+Leave Joe alone and let 's get out of this.
+--------------------
+
+
+--------------------
+47번째 상호작용
+[인물] Joe - Reddy
+--------------------
+문장: "still another lad 'm 'Reddy' Simpson, an' me ain't licked
+the fambly till me 've licked still another lad.
+"
+
+The gang cheered admiringly, and Reddy stripped a tattered jacket
+preparatory for the fray.
+"Git ready," Reddy said to Joe.
+--------------------
+문장: "
+
+The gang cheered admiringly, and Reddy stripped a tattered jacket
+preparatory for the fray.
+"Git ready," Reddy said to Joe.
+Joe's knuckles were torn, Joe's nose was bleeding, Joe's lip was cut and
+swollen, while Joe's shirt had been ripped down from throat to waist.
+--------------------
+문장: "How many more are there of The gang?"
+Joe asked.
+"Joe 've got to
+get home, and if Reddy's family 's much larger this thing is liable
+to keep on all night.
+--------------------
+문장: Joe asked.
+"Joe 've got to
+get home, and if Reddy's family 's much larger this thing is liable
+to keep on all night.
+"
+
+"Reddy 'm the last an' the best," Reddy replied.
+--------------------
+문장: "Joe 've got to
+get home, and if Reddy's family 's much larger this thing is liable
+to keep on all night.
+"
+
+"Reddy 'm the last an' the best," Reddy replied.
+"Joe gits Reddy an' Joe
+gits the kites.
+--------------------
+문장: "Wot was Joe scrappin' about?"
+
+"Kites--Joe's kites," Joe spoke up boldly.
+"Reddy tried to take my kites
+away from Joe.
+Reddy 's got my kites under Reddy's arm now.
+--------------------
+문장: "Reddy tried to take my kites
+away from Joe.
+Reddy 's got my kites under Reddy's arm now.
+"
+
+"Oh, Reddy has, has Reddy?
+--------------------
+
+
+--------------------
+48번째 상호작용
+[인물] Joe - CHAPTER IV
+
+THE
+--------------------
+문장: For Joe felt that Joe was fighting for principle,
+as Joe's forefathers had fought for principle; also, it seemed to Joe that
+the honor of the Hill was at stake, and that he, as the Hill's representative,
+could do nothing less than Joe's very best.
+So Joe held on and managed to endure Joe's opponent's swift and continuous
+rushes till his opponent's at last wore his opponent's
+out with his opponent's's own exertions, and from the ground confessed that, for the
+first time in its history, its was beat.
+"
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+--------------------
+문장: So Joe held on and managed to endure Joe's opponent's swift and continuous
+rushes till his opponent's at last wore his opponent's
+out with his opponent's's own exertions, and from the ground confessed that, for the
+first time in its history, its was beat.
+"
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+Before Joe could even possess
+Joe of Joe's kites, Joe's astonished eyes were greeted with the
+spectacle of all Joe's enemies, the fireman included, taking to all his enemies, the fireman included's
+heels in wild flight.
+--------------------
+문장: "
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+Before Joe could even possess
+Joe of Joe's kites, Joe's astonished eyes were greeted with the
+spectacle of all Joe's enemies, the fireman included, taking to all his enemies, the fireman included's
+heels in wild flight.
+As the little girls and urchins had melted away
+before The gang, so was melting away The gang before
+some new and correspondingly awe-inspiring group of predatory creatures.
+--------------------
+
+
+--------------------
+49번째 상호작용
+[인물] CHAPTER IV
+
+THE - Pit
+--------------------
+문장: For Joe felt that Joe was fighting for principle,
+as Joe's forefathers had fought for principle; also, it seemed to Joe that
+the honor of the Hill was at stake, and that he, as the Hill's representative,
+could do nothing less than Joe's very best.
+So Joe held on and managed to endure Joe's opponent's swift and continuous
+rushes till his opponent's at last wore his opponent's
+out with his opponent's's own exertions, and from the ground confessed that, for the
+first time in its history, its was beat.
+"
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+--------------------
+문장: So Joe held on and managed to endure Joe's opponent's swift and continuous
+rushes till his opponent's at last wore his opponent's
+out with his opponent's's own exertions, and from the ground confessed that, for the
+first time in its history, its was beat.
+"
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+Before Joe could even possess
+Joe of Joe's kites, Joe's astonished eyes were greeted with the
+spectacle of all Joe's enemies, the fireman included, taking to all his enemies, the fireman included's
+heels in wild flight.
+--------------------
+문장: "
+
+
+
+
+CHAPTER IV
+
+THE BITER BITTEN
+
+
+But life in the Pit at best was a precarious affair, as the three
+Hill-dwellers were quickly to learn.
+Before Joe could even possess
+Joe of Joe's kites, Joe's astonished eyes were greeted with the
+spectacle of all Joe's enemies, the fireman included, taking to all his enemies, the fireman included's
+heels in wild flight.
+As the little girls and urchins had melted away
+before The gang, so was melting away The gang before
+some new and correspondingly awe-inspiring group of predatory creatures.
+--------------------
+
+
+--------------------
+50번째 상호작용
+[인물] Joe - Simpson
+--------------------
+문장: Wot 's be'n goin' on here?
+Wot 're
+Joe up to, Joe?
+Wot Joe be'n doin'?"
+
+"Ain't be'n doin' nothin'," Simpson whined.
+--------------------
+문장: Wot 're
+Joe up to, Joe?
+Wot Joe be'n doin'?"
+
+"Ain't be'n doin' nothin'," Simpson whined.
+"Looks like it."
+--------------------
+
+
+--------------------
+51번째 상호작용
+[인물] Brick Simpson's - Fred and Charley
+--------------------
+문장: "Let 's get out of this," he whispered to Fred and Charley.
+The gang had already taken to flight, and The gang blocked 's's retreat
+in one quarter, and in another 's saw the policemen advancing.
+So 's
+took to 's's heels in the direction of Brick Simpson's slip, the policemen
+hot after 's and yelling bravely for 's to halt.
+--------------------
+
+
+--------------------
+52번째 상호작용
+[인물] Brick Simpson's's - Brick Simpson's
+--------------------
+문장: From this wilderness 's finally
+emerged by way of a shed roof, only to fall into another yard, cumbered
+with countless empty chicken-coops.
+Farther on 's came upon the contrivance which had soaked Brick Simpson's's
+pursuers with water.
+the contrivance which had soaked Brick Simpson's
+pursuers with water was a cunning arrangement.
+--------------------
+문장: Farther on 's came upon the contrivance which had soaked Brick Simpson's's
+pursuers with water.
+the contrivance which had soaked Brick Simpson's
+pursuers with water was a cunning arrangement.
+Where Brick Simpson's slip led
+through a fence with a board missing, a long slat was so arranged that
+the ignorant wayfarer could not fail to strike against a long slat.
+--------------------
+문장: "
+
+"Oh, it 's Joe, who was in advance, is it?"
+Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+"Wot d' Joe, who was in advance want here?"
+
+"'s want to get out of here," Joe, who was in advance said, "and the shortest way 's the
+best.
+--------------------
+문장: Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+"Wot d' Joe, who was in advance want here?"
+
+"'s want to get out of here," Joe, who was in advance said, "and the shortest way 's the
+best.
+There 's 's's, and Brick Simpson's 're only one--"
+
+"That 's all right, that 's all right," Brick Simpson's interrupted.
+--------------------
+
+
+--------------------
+53번째 상호작용
+[인물] Joe - Brick Simpson's
+--------------------
+문장: The disconnecting of a heavy stone permitted a barrel perched overhead and nicely
+balanced to turn
+over and spill a barrel perched overhead and nicely
+balanced's contents on the one beneath who touched a long slat.
+'s examined the contrivance which had soaked Brick Simpson's
+pursuers with water with keen appreciation.
+Luckily for's's, a barrel perched overhead and nicely
+balanced was overturned, or 's too would have received a
+ducking, for Joe, who was in advance, had blundered against a long slat.
+--------------------
+문장: 's examined the contrivance which had soaked Brick Simpson's
+pursuers with water with keen appreciation.
+Luckily for's's, a barrel perched overhead and nicely
+balanced was overturned, or 's too would have received a
+ducking, for Joe, who was in advance, had blundered against a long slat.
+"Joe, who was in advance wonder if this is Brick Simpson's's back yard?"
+--------------------
+문장: A dark form was Brick Simpson'sBrick Simpson's, resetting the trap.
+'s heard Brick Simpson's arrange
+the slat and stone, then right a barrel perched overhead and nicely
+balanced and empty into a barrel perched overhead and nicely
+balanced a couple of
+buckets of water.
+As Brick Simpson's came down from a box to the
+fence to go after more water,
+Joe, who was in advance sprang upon Brick Simpson's, tripped Brick Simpson's up, and held Brick Simpson's to the ground.
+--------------------
+문장: 's heard Brick Simpson's arrange
+the slat and stone, then right a barrel perched overhead and nicely
+balanced and empty into a barrel perched overhead and nicely
+balanced a couple of
+buckets of water.
+As Brick Simpson's came down from a box to the
+fence to go after more water,
+Joe, who was in advance sprang upon Brick Simpson's, tripped Brick Simpson's up, and held Brick Simpson's to the ground.
+"Don't make any noise," Joe, who was in advance said.
+--------------------
+문장: As Brick Simpson's came down from a box to the
+fence to go after more water,
+Joe, who was in advance sprang upon Brick Simpson's, tripped Brick Simpson's up, and held Brick Simpson's to the ground.
+"Don't make any noise," Joe, who was in advance said.
+"Joe, who was in advance want Brick Simpson's to listen to Joe, who was in advance.
+--------------------
+문장: "Don't make any noise," Joe, who was in advance said.
+"Joe, who was in advance want Brick Simpson's to listen to Joe, who was in advance.
+"
+
+"Oh, it 's Joe, who was in advance, is it?"
+--------------------
+문장: "Joe, who was in advance want Brick Simpson's to listen to Joe, who was in advance.
+"
+
+"Oh, it 's Joe, who was in advance, is it?"
+Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+--------------------
+문장: "
+
+"Oh, it 's Joe, who was in advance, is it?"
+Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+"Wot d' Joe, who was in advance want here?"
+
+"'s want to get out of here," Joe, who was in advance said, "and the shortest way 's the
+best.
+--------------------
+문장: "Wot d' Joe, who was in advance want here?"
+
+"'s want to get out of here," Joe, who was in advance said, "and the shortest way 's the
+best.
+There 's 's's, and Brick Simpson's 're only one--"
+
+"That 's all right, that 's all right," Brick Simpson's interrupted.
+"Brick Simpson's 'd just as soon show 's the way out as not.
+--------------------
+문장: "
+
+Several minutes later 's dropped from the top of a high fence into
+a dark alley.
+"Follow this to the street," Brick Simpson's directed; "turn to the right two
+blocks, turn to the right again for three, an' yer on Union.
+Tra-la-loo."'s 's said good-by, and as 's started down a dark alley received the
+following advice:
+
+"Nex' time Joe, who was in advance bring kites along, Joe, who was in advance 'd best leave kites to home.
+--------------------
+문장: "Follow this to the street," Brick Simpson's directed; "turn to the right two
+blocks, turn to the right again for three, an' yer on Union.
+Tra-la-loo."'s 's said good-by, and as 's started down a dark alley received the
+following advice:
+
+"Nex' time Joe, who was in advance bring kites along, Joe, who was in advance 'd best leave kites to home.
+"
+
+
+
+
+CHAPTER V
+
+HOME AGAIN
+
+
+Following Brick Simpson's's directions, 's came into Union, and
+without further mishap gained the Hill.
+--------------------
+
+
+--------------------
+54번째 상호작용
+[인물] Joe - Brick Simpson's's
+--------------------
+문장: 's examined the contrivance which had soaked Brick Simpson's
+pursuers with water with keen appreciation.
+Luckily for's's, a barrel perched overhead and nicely
+balanced was overturned, or 's too would have received a
+ducking, for Joe, who was in advance, had blundered against a long slat.
+"Joe, who was in advance wonder if this is Brick Simpson's's back yard?"
+--------------------
+문장: Luckily for's's, a barrel perched overhead and nicely
+balanced was overturned, or 's too would have received a
+ducking, for Joe, who was in advance, had blundered against a long slat.
+"Joe, who was in advance wonder if this is Brick Simpson's's back yard?"
+Joe, who was in advance queried softly.
+--------------------
+문장: "Joe, who was in advance wonder if this is Brick Simpson's's back yard?"
+Joe, who was in advance queried softly.
+"this must be," Fred concluded, "or else the back yard of some member
+of Brick Simpson's's .
+--------------------
+문장: Joe, who was in advance queried softly.
+"this must be," Fred concluded, "or else the back yard of some member
+of Brick Simpson's's .
+"
+
+Charley put Charley's hands warningly on both their arms.
+--------------------
+문장: "Joe, who was in advance want Brick Simpson's to listen to Joe, who was in advance.
+"
+
+"Oh, it 's Joe, who was in advance, is it?"
+Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+--------------------
+문장: "
+
+"Oh, it 's Joe, who was in advance, is it?"
+Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+"Wot d' Joe, who was in advance want here?"
+
+"'s want to get out of here," Joe, who was in advance said, "and the shortest way 's the
+best.
+--------------------
+문장: "Follow this to the street," Brick Simpson's directed; "turn to the right two
+blocks, turn to the right again for three, an' yer on Union.
+Tra-la-loo."'s 's said good-by, and as 's started down a dark alley received the
+following advice:
+
+"Nex' time Joe, who was in advance bring kites along, Joe, who was in advance 'd best leave kites to home.
+"
+
+
+
+
+CHAPTER V
+
+HOME AGAIN
+
+
+Following Brick Simpson's's directions, 's came into Union, and
+without further mishap gained the Hill.
+--------------------
+문장: Tra-la-loo."'s 's said good-by, and as 's started down a dark alley received the
+following advice:
+
+"Nex' time Joe, who was in advance bring kites along, Joe, who was in advance 'd best leave kites to home.
+"
+
+
+
+
+CHAPTER V
+
+HOME AGAIN
+
+
+Following Brick Simpson's's directions, 's came into Union, and
+without further mishap gained the Hill.
+From the brow 's looked down
+into the Pit, whence arose that steady, indefinable hum which comes
+from crowded human places.
+--------------------
+
+
+--------------------
+55번째 상호작용
+[인물] Brick Simpson's - Brick Simpson's's
+--------------------
+문장: 's examined the contrivance which had soaked Brick Simpson's
+pursuers with water with keen appreciation.
+Luckily for's's, a barrel perched overhead and nicely
+balanced was overturned, or 's too would have received a
+ducking, for Joe, who was in advance, had blundered against a long slat.
+"Joe, who was in advance wonder if this is Brick Simpson's's back yard?"
+--------------------
+문장: "Joe, who was in advance want Brick Simpson's to listen to Joe, who was in advance.
+"
+
+"Oh, it 's Joe, who was in advance, is it?"
+Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+--------------------
+문장: "Follow this to the street," Brick Simpson's directed; "turn to the right two
+blocks, turn to the right again for three, an' yer on Union.
+Tra-la-loo."'s 's said good-by, and as 's started down a dark alley received the
+following advice:
+
+"Nex' time Joe, who was in advance bring kites along, Joe, who was in advance 'd best leave kites to home.
+"
+
+
+
+
+CHAPTER V
+
+HOME AGAIN
+
+
+Following Brick Simpson's's directions, 's came into Union, and
+without further mishap gained the Hill.
+--------------------
+
+
+--------------------
+56번째 상호작용
+[인물] Brick Simpson's's - Charley
+--------------------
+문장: Joe, who was in advance queried softly.
+"this must be," Fred concluded, "or else the back yard of some member
+of Brick Simpson's's .
+"
+
+Charley put Charley's hands warningly on both their arms.
+--------------------
+문장: "this must be," Fred concluded, "or else the back yard of some member
+of Brick Simpson's's .
+"
+
+Charley put Charley's hands warningly on both their arms.
+"Hist!
+--------------------
+
+
+--------------------
+57번째 상호작용
+[인물] Brick Simpson's - Brick Simpson'sBrick Simpson's
+--------------------
+문장: A dark form passed by within arm's reach and mounted on a box to the
+fence.
+A dark form was Brick Simpson'sBrick Simpson's, resetting the trap.
+'s heard Brick Simpson's arrange
+the slat and stone, then right a barrel perched overhead and nicely
+balanced and empty into a barrel perched overhead and nicely
+balanced a couple of
+buckets of water.
+--------------------
+문장: A dark form was Brick Simpson'sBrick Simpson's, resetting the trap.
+'s heard Brick Simpson's arrange
+the slat and stone, then right a barrel perched overhead and nicely
+balanced and empty into a barrel perched overhead and nicely
+balanced a couple of
+buckets of water.
+As Brick Simpson's came down from a box to the
+fence to go after more water,
+Joe, who was in advance sprang upon Brick Simpson's, tripped Brick Simpson's up, and held Brick Simpson's to the ground.
+--------------------
+
+
+--------------------
+58번째 상호작용
+[인물] Joe - Brick Simpson'sBrick Simpson's
+--------------------
+문장: A dark form was Brick Simpson'sBrick Simpson's, resetting the trap.
+'s heard Brick Simpson's arrange
+the slat and stone, then right a barrel perched overhead and nicely
+balanced and empty into a barrel perched overhead and nicely
+balanced a couple of
+buckets of water.
+As Brick Simpson's came down from a box to the
+fence to go after more water,
+Joe, who was in advance sprang upon Brick Simpson's, tripped Brick Simpson's up, and held Brick Simpson's to the ground.
+--------------------
+
+
+--------------------
+59번째 상호작용
+[인물] Brick Simpson's's - Joe
+--------------------
+문장: Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+"Wot d' Joe, who was in advance want here?"
+
+"'s want to get out of here," Joe, who was in advance said, "and the shortest way 's the
+best.
+There 's 's's, and Brick Simpson's 're only one--"
+
+"That 's all right, that 's all right," Brick Simpson's interrupted.
+--------------------
+
+
+--------------------
+60번째 상호작용
+[인물] Brick Simpson's - Joe
+--------------------
+문장: Brick Simpson's replied, with such obvious relief in
+Brick Simpson's's voice as to make 's feel relieved also.
+"Wot d' Joe, who was in advance want here?"
+
+"'s want to get out of here," Joe, who was in advance said, "and the shortest way 's the
+best.
+There 's 's's, and Brick Simpson's 're only one--"
+
+"That 's all right, that 's all right," Brick Simpson's interrupted.
+--------------------
+
+
+--------------------
+61번째 상호작용
+[인물] Brick Simpson's's - Fred
+--------------------
+문장: "
+
+
+
+
+CHAPTER V
+
+HOME AGAIN
+
+
+Following Brick Simpson's's directions, 's came into Union, and
+without further mishap gained the Hill.
+From the brow 's looked down
+into the Pit, whence arose that steady, indefinable hum which comes
+from crowded human places.
+"Fred 'll never go down there again, not as long as Fred live," Fred said
+with a great deal of savagery in Fred's voice.
+--------------------
+
+
+--------------------
+62번째 상호작용
+[인물] Joe - Bronson
+--------------------
+문장: "Joe, who was in advance 've--Joe, who was in advance 've--"
+
+"Yes, yes," his
+father encouraged.
+"Joe, who was in advance 've--well, Joe, who was in advance 've been down in the Pit," Joe, who was in advance succeeded in blurting out.
+"I must confess that I look like it--very much like it indeed."
+Mr. Bronson spoke severely, but if ever by great effort Mr. Bronson conquered
+a smile, that was the time.
+--------------------
+문장: "Joe, who was in advance 've--well, Joe, who was in advance 've been down in the Pit," Joe, who was in advance succeeded in blurting out.
+"I must confess that I look like it--very much like it indeed."
+Mr. Bronson spoke severely, but if ever by great effort Mr. Bronson conquered
+a smile, that was the time.
+"Mr. Bronson presume," Mr. Bronson went on, "that I do not
+refer to the abiding-place of sinners, but rather to some definite
+locality in San Francisco.
+--------------------
+
+
+--------------------
+63번째 상호작용
+[인물] Bronson - Pit
+--------------------
+문장: "Joe, who was in advance 've--Joe, who was in advance 've--"
+
+"Yes, yes," his
+father encouraged.
+"Joe, who was in advance 've--well, Joe, who was in advance 've been down in the Pit," Joe, who was in advance succeeded in blurting out.
+"I must confess that I look like it--very much like it indeed."
+Mr. Bronson spoke severely, but if ever by great effort Mr. Bronson conquered
+a smile, that was the time.
+--------------------
+문장: "Joe, who was in advance 've--well, Joe, who was in advance 've been down in the Pit," Joe, who was in advance succeeded in blurting out.
+"I must confess that I look like it--very much like it indeed."
+Mr. Bronson spoke severely, but if ever by great effort Mr. Bronson conquered
+a smile, that was the time.
+"Mr. Bronson presume," Mr. Bronson went on, "that I do not
+refer to the abiding-place of sinners, but rather to some definite
+locality in San Francisco.
+--------------------
+
+
+--------------------
+64번째 상호작용
+[인물] Bronsonsaid - Bronson
+--------------------
+문장: This did not increase I's happiness, for your English was the only study of
+which I did not have to feel ashamed.
+And, while I stood thus a silent picture of misery and disgrace,
+Mr. Bronson looked upon I through the eyes of I's own boyhood with
+an understanding which I could not have believed possible.
+"However, what I need just now is not a discourse, but a bath and
+court-plaster and witch-hazel and cold-water bandages," Mr. Bronsonsaid; "so to bed with I. I 'll need all the sleep I can get,
+and I 'll feel stiff and sore to-morrow morning, Mr. Bronson promise I."
+
+The clock struck one as I pulled the bedclothes around I; and the
+next I knew I was being worried by a soft, insistent rapping, which
+seemed to continue through several centuries, until at last, unable to
+endure a soft, insistent rapping, which
+seemed to continue through several centuries longer, I opened I's eyes and sat up.
+--------------------
+문장: And, while I stood thus a silent picture of misery and disgrace,
+Mr. Bronson looked upon I through the eyes of I's own boyhood with
+an understanding which I could not have believed possible.
+"However, what I need just now is not a discourse, but a bath and
+court-plaster and witch-hazel and cold-water bandages," Mr. Bronsonsaid; "so to bed with I. I 'll need all the sleep I can get,
+and I 'll feel stiff and sore to-morrow morning, Mr. Bronson promise I."
+
+The clock struck one as I pulled the bedclothes around I; and the
+next I knew I was being worried by a soft, insistent rapping, which
+seemed to continue through several centuries, until at last, unable to
+endure a soft, insistent rapping, which
+seemed to continue through several centuries longer, I opened I's eyes and sat up.
+The day was streaming in through the window--bright and sunshiny day.
+--------------------
+문장: "However, what I need just now is not a discourse, but a bath and
+court-plaster and witch-hazel and cold-water bandages," Mr. Bronsonsaid; "so to bed with I. I 'll need all the sleep I can get,
+and I 'll feel stiff and sore to-morrow morning, Mr. Bronson promise I."
+
+The clock struck one as I pulled the bedclothes around I; and the
+next I knew I was being worried by a soft, insistent rapping, which
+seemed to continue through several centuries, until at last, unable to
+endure a soft, insistent rapping, which
+seemed to continue through several centuries longer, I opened I's eyes and sat up.
+The day was streaming in through the window--bright and sunshiny day.
+I stretched I's arms to yawn; but a shooting pain darted through all
+the muscles, and his arms came down more rapidly than his arms had gone up.
+--------------------
+
+
+--------------------
+65번째 상호작용
+[인물] Bessie - Bronson
+--------------------
+문장: "Please don't bother I," I interrupted.
+"I 'm late, and I want to
+eat I's breakfast.
+"
+
+And just then Mr. Bronson caught Bessie's's eye, and that young lady,
+still mystified, made haste to withdraw Bessie's.
+--------------------
+문장: "I 'm late, and I want to
+eat I's breakfast.
+"
+
+And just then Mr. Bronson caught Bessie's's eye, and that young lady,
+still mystified, made haste to withdraw Bessie's.
+I was thankful to Bessie's for made, and thankful that Bessie's refrained
+from remarking upon I's appearance.
+--------------------
+문장: "
+
+And just then Mr. Bronson caught Bessie's's eye, and that young lady,
+still mystified, made haste to withdraw Bessie's.
+I was thankful to Bessie's for made, and thankful that Bessie's refrained
+from remarking upon I's appearance.
+Father had told Bessie's; that was one
+thing sure.
+--------------------
+
+
+--------------------
+66번째 상호작용
+[인물] Fred and Charley - Simpson
+--------------------
+문장: When I entered the school-yard I quickly became aware that I was
+the center of attraction for all eyes.
+The boys crowded around in an
+awe-stricken way, and even I's classmates and those with whom I was
+well acquainted looked at I with a certain respect I had never
+seen before.
+CHAPTER VI
+
+EXAMINATION DAY
+
+
+It was plain that Fred and Charley had spread the news of Fred and Charley's descent
+into the Pit, and of Fred and Charley's battle with the Simpson clan and the Fishes.
+--------------------
+문장: The boys crowded around in an
+awe-stricken way, and even I's classmates and those with whom I was
+well acquainted looked at I with a certain respect I had never
+seen before.
+CHAPTER VI
+
+EXAMINATION DAY
+
+
+It was plain that Fred and Charley had spread the news of Fred and Charley's descent
+into the Pit, and of Fred and Charley's battle with the Simpson clan and the Fishes.
+I heard the ni
+--------------------
+
+
+--------------------
+67번째 상호작용
+[인물] Fred and Charley's - Simpson
+--------------------
+문장: When I entered the school-yard I quickly became aware that I was
+the center of attraction for all eyes.
+The boys crowded around in an
+awe-stricken way, and even I's classmates and those with whom I was
+well acquainted looked at I with a certain respect I had never
+seen before.
+CHAPTER VI
+
+EXAMINATION DAY
+
+
+It was plain that Fred and Charley had spread the news of Fred and Charley's descent
+into the Pit, and of Fred and Charley's battle with the Simpson clan and the Fishes.
+--------------------
+문장: The boys crowded around in an
+awe-stricken way, and even I's classmates and those with whom I was
+well acquainted looked at I with a certain respect I had never
+seen before.
+CHAPTER VI
+
+EXAMINATION DAY
+
+
+It was plain that Fred and Charley had spread the news of Fred and Charley's descent
+into the Pit, and of Fred and Charley's battle with the Simpson clan and the Fishes.
+I heard the ni
+--------------------
+
+
