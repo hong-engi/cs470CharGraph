@@ -4250,5 +4250,5 @@ Listen:
 "'_Sir_, be warned.
 They're going away.
 Take care.
-To-morrow evening the 1800 bags will be on their way       out of the country.
+To-morrow evening the 1800 bags will be on their way  out of the country.
 A FRI
