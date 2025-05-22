@@ -65,8 +65,8 @@ if __name__ == "__main__":
     directory = "eigen_feature_vectors/"      # Eigen feature vectors path
     label_csv_path = "label/labels.csv"
     k = 3                              # top-k
-    output_file = "feature_matrix_labeled.npy"  # Output file name
-    output_file_csv = "feature_matrix_labeled.csv" # Output csv file name
+    output_file = "Classifier_input/feature_matrix_labeled.npy"  # Output file name
+    output_file_csv = "Classifier_input/feature_matrix_labeled.csv" # Output csv file name
 
     vectors, names = load_eigen_feature_vectors(directory)
 
