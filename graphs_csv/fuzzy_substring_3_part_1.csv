@@ -1,0 +1,30 @@
+source,target,weight
+joe,bessie,4
+joe,myrtle,2
+joe,dick schofield,1
+joe,burt layton,1
+joe,fred,15
+joe,charley,62
+joe,chapter iii,2
+joe,pit,10
+joe,simpson,27
+joe,reddy,7
+joe,chapter iv the,3
+joe,bronson,2
+bessie,bronson,3
+dick schofield,burt layton,3
+fred,charley,57
+fred,jones,1
+fred,pit,2
+fred,simpson,1
+charley,chapter iii,1
+charley,pit,10
+charley,simpson,9
+pit,chapter iv the,3
+pit,bronson,2
+jessie hilborn,alice,3
+jessie hilborn,pearl saythers,3
+jessie hilborn,sadie french,3
+alice,pearl saythers,3
+alice,sadie french,3
+pearl saythers,sadie french,3
