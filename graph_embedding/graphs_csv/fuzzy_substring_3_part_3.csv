@@ -1,0 +1,23 @@
+source,target,weight
+pete,mush,2
+pete,joe,31
+pete,uncle sams,3
+pete,dazzler,32
+pete,bronson,5
+pete,nelson,19
+pete,sho,3
+pete,vaire,1
+pete,frisco kid,5
+pete,lee,1
+pete,chapter xvi,2
+joe,nelson,11
+joe,dazzler,12
+joe,frisco kid,23
+joe,lee,3
+joe,chapter xvi,1
+uncle sams,dazzler,5
+dazzler,lee,4
+bronson,frisco kid,3
+bronson,bessie,3
+nelson,chapter xvi,2
+frisco kid,bessie,3
