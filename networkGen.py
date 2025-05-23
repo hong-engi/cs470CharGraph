@@ -10,7 +10,7 @@ novel/<genre>/<book_id>.txt  →  books_GNN / books_base CSV
 # --------------------------------------------------
 # 0. 공통 의존성 및 유틸 함수(원본 그대로)
 # --------------------------------------------------
-import spacy, time, csv, re, itertools, os, math
+import spacy, time, csv, re, itertools, os, math,json
 import networkx as nx
 from collections import defaultdict, Counter
 from rapidfuzz import fuzz
@@ -20,7 +20,7 @@ import allennlp_models.coref
 print("start")
 
 NUM_PARTS        = 4
-MAX_CHUNK_WORDS  = 1000
+MAX_CHUNK_WORDS  = 2000
 COREF_MODEL      = "coref-model.tar.gz"
 
 # --------------------------------------------------
@@ -129,20 +129,43 @@ def build_interaction_matrix_window(text, valid_chars, window_size=3, stride=1):
             matrix[c1][c2] += 1
             matrix[c2][c1] += 1
     return matrix
+import re
+import re
 
-def split_text_into_chunks(text, max_words):
-    paragraphs = text.split("\n\n")
-    chunks, curr, curr_len = [], "", 0
+def split_text_into_chunks(text, max_words=2000, max_chars=15000):
+    paragraphs = re.split(r'\n\s*\n', text.strip())
+    
+    chunks = []
+    curr_chunk_words = []
+    curr_len_chars = 0
+    curr_len_words = 0
+
     for para in paragraphs:
-        words = para.split()
-        if curr_len + len(words) > max_words:
-            chunks.append(curr.strip())
-            curr, curr_len = para, len(words)
-        else:
-            curr += "\n\n" + para
-            curr_len += len(words)
-    if curr:
-        chunks.append(curr.strip())
+        words = para.strip().split()
+        for word in words:
+            word_len = len(word) + 1  # +1 for space or newline
+            if (curr_len_chars + word_len > max_chars) or (curr_len_words + 1 > max_words):
+                # 강제 청크 분리
+                if curr_chunk_words:
+                    chunks.append(' '.join(curr_chunk_words).strip())
+                curr_chunk_words = [word]
+                curr_len_chars = len(word) + 1
+                curr_len_words = 1
+            else:
+                curr_chunk_words.append(word)
+                curr_len_chars += word_len
+                curr_len_words += 1
+
+        # 단락 경계에는 두 줄 바꿈을 넣어 가독성 유지
+        if curr_chunk_words and curr_len_chars + 2 <= max_chars:
+            curr_chunk_words.append('\n\n')
+            curr_len_chars += 2
+
+    # 마지막 청크 추가
+    final_text = ' '.join(curr_chunk_words).strip()
+    if final_text:
+        chunks.append(final_text)
+
     return chunks
 
 def create_graph_from_matrix(matrix):
@@ -213,7 +236,7 @@ def process_single_book(input_file):
             resolved_all += resolved + "\n\n"
             character_set.update(extract_characters(resolved))
             print(f"  {j}/{len(chunks)} 청크 완료 ({time.time() - t_part:.2f}s)")
-
+        exit(0)
         matrix = build_interaction_matrix_window(resolved_all, character_set)
         print(f"  ├ 매트릭스 완성 | 인물 {len(character_set)}명 | {time.time() - t_part:.2f}s")
 
@@ -250,16 +273,39 @@ def process_single_book(input_file):
 # --------------------------------------------------
 # 2. 전체 폴더 순회
 # --------------------------------------------------
+PROCESSED_IDS_FILE = "processed_ids.json"
+
+def load_processed_ids():
+    if os.path.exists(PROCESSED_IDS_FILE):
+        with open(PROCESSED_IDS_FILE, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    return set()
+
+def save_processed_ids(processed_ids):
+    with open(PROCESSED_IDS_FILE, "w", encoding="utf-8") as f:
+        json.dump(list(processed_ids), f, indent=2)
+
 def batch_process_all(root_dir="novel"):
-    for genre in os.listdir(root_dir):
-        genre_path = os.path.join(root_dir, genre)
-        if not os.path.isdir(genre_path):
-            continue
-        for fname in os.listdir(genre_path):
-            if fname.endswith(".txt"):
-                input_file = os.path.join(genre_path, fname)
-                print(f"\n=== {genre}/{fname} 처리 시작 ===")
-                process_single_book(input_file)
+    genre = "humorous_stories"
+    genre_path = os.path.join(root_dir, genre)
+    if not os.path.isdir(genre_path):
+        print(f"[ERROR] 폴더 없음: {genre_path}")
+        return
+
+    processed_ids = load_processed_ids()
+
+    for fname in os.listdir(genre_path):
+        if fname.endswith(".txt"):
+            if fname in processed_ids:
+                print(f"[SKIP] 이미 처리됨: {fname}")
+                continue
+
+            input_file = os.path.join(genre_path, fname)
+            print(f"\n=== {genre}/{fname} 처리 시작 ===")
+            process_single_book(input_file)
+
+            processed_ids.add(fname)
+            save_processed_ids(processed_ids)
 
 # --------------------------------------------------
 # 3. 실행
