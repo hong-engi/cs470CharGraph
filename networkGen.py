@@ -11,6 +11,7 @@ novel/<genre>/<book_id>.txt  →  books_GNN / books_base CSV
 # 0. 공통 의존성 및 유틸 함수(원본 그대로)
 # --------------------------------------------------
 import spacy, time, csv, re, itertools, os, math,json
+import torch, gc
 import networkx as nx
 from collections import defaultdict, Counter
 from rapidfuzz import fuzz
@@ -19,19 +20,29 @@ import allennlp_models.coref
 
 print("start")
 
+
+# GPU 설정
+if torch.cuda.is_available():
+    spacy.require_gpu()  # spaCy가 GPU 사용하도록 설정
+    cuda_device = 0      # AllenNLP용 GPU ID
+    print("🟢 GPU detected: spaCy & AllenNLP will use cuda_device=0")
+else:
+    cuda_device = -1     # CPU fallback
+    print("⚪️ GPU not found: using CPU")
+
 NUM_PARTS        = 4
-MAX_CHUNK_WORDS  = 2000
+MAX_CHUNK_WORDS  =600
 COREF_MODEL      = "coref-model.tar.gz"
 
 # --------------------------------------------------
 # 시간 측정: 모델 로드
 # --------------------------------------------------
 global_start = time.time()
-small_version = True
+small_version = False
 nlp = spacy.load("en_core_web_sm") if small_version else spacy.load("en_core_web_trf")
 print(f"[0] spaCy 모델 로드: {time.time() - global_start:.2f}s")
 
-predictor = Predictor.from_path(COREF_MODEL)
+predictor = Predictor.from_path(COREF_MODEL, cuda_device=cuda_device)
 print(f"[0] coref 모델 로드: {time.time() - global_start:.2f}s")
 
 # --------------------------------------------------
@@ -107,8 +118,12 @@ def extract_characters(text):
     doc = nlp(text)
     return {ent.text for ent in doc.ents if ent.label_ == "PERSON"}
 
-def resolve_coreferences(text):
-    return predictor.coref_resolved(text)
+def resolve_coreferences(chunk, predictor):
+    with torch.no_grad():                # 그래프 저장 방지
+        out = predictor.coref_resolved(chunk)
+    torch.cuda.empty_cache()             # 캐시 블록 해제
+    gc.collect()                         # Python 객체 즉시 수거
+    return out
 
 def build_interaction_matrix_window(text, valid_chars, window_size=3, stride=1):
     matrix = defaultdict(lambda: defaultdict(int))
@@ -132,7 +147,7 @@ def build_interaction_matrix_window(text, valid_chars, window_size=3, stride=1):
 import re
 import re
 
-def split_text_into_chunks(text, max_words=2000, max_chars=15000):
+def split_text_into_chunks(text, max_words=600, max_chars=5000):
     paragraphs = re.split(r'\n\s*\n', text.strip())
     
     chunks = []
@@ -232,7 +247,7 @@ def process_single_book(input_file):
         chunks = split_text_into_chunks(part, MAX_CHUNK_WORDS)
         resolved_all, character_set = "", set()
         for j, chunk in enumerate(chunks, 1):
-            resolved = resolve_coreferences(chunk)
+            resolved = resolve_coreferences(chunk, predictor)
             resolved_all += resolved + "\n\n"
             character_set.update(extract_characters(resolved))
             print(f"  {j}/{len(chunks)} 청크 완료 ({time.time() - t_part:.2f}s)")
