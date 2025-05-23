@@ -310,4 +310,11 @@ def batch_process_all(root_dir, genre):
 # 3. 실행
 # --------------------------------------------------
 if __name__ == "__main__":
-    batch_process_all(root_dir= "novel", genre = "humorous_stories")
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Batch process character graphs for a given genre.")
+    parser.add_argument("--genre", required=True, help="Genre folder name (e.g., 'humorous_stories')")
+    parser.add_argument("--root_dir", default="novel", help="Root directory (default: 'novel')")
+
+    args = parser.parse_args()
+    batch_process_all(root_dir=args.root_dir, genre=args.genre)
