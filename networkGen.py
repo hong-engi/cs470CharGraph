@@ -285,8 +285,7 @@ def save_processed_ids(processed_ids):
     with open(PROCESSED_IDS_FILE, "w", encoding="utf-8") as f:
         json.dump(list(processed_ids), f, indent=2)
 
-def batch_process_all(root_dir="novel"):
-    genre = "humorous_stories"
+def batch_process_all(root_dir, genre):
     genre_path = os.path.join(root_dir, genre)
     if not os.path.isdir(genre_path):
         print(f"[ERROR] 폴더 없음: {genre_path}")
@@ -311,4 +310,4 @@ def batch_process_all(root_dir="novel"):
 # 3. 실행
 # --------------------------------------------------
 if __name__ == "__main__":
-    batch_process_all("novel")
+    batch_process_all(root_dir= "novel", genre = "humorous_stories")
