@@ -236,7 +236,6 @@ def process_single_book(input_file):
             resolved_all += resolved + "\n\n"
             character_set.update(extract_characters(resolved))
             print(f"  {j}/{len(chunks)} 청크 완료 ({time.time() - t_part:.2f}s)")
-        exit(0)
         matrix = build_interaction_matrix_window(resolved_all, character_set)
         print(f"  ├ 매트릭스 완성 | 인물 {len(character_set)}명 | {time.time() - t_part:.2f}s")
 
