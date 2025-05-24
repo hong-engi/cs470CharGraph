@@ -249,9 +249,12 @@ def process_single_book(input_file):
 
         chunks = split_text_into_chunks(part, MAX_CHUNK_WORDS)
         resolved_all, character_set = "", set()
-
         for j, chunk in enumerate(chunks, 1):
-            resolved = resolve_coreferences(chunk, predictor)
+            try:
+                resolved = resolve_coreferences(chunk)
+            except Exception as e:
+                print(f"[WARNING] 파트 {idx} 청크 {j} 처리 실패: {e}")
+                continue
             resolved_all += resolved + "\n\n"
             character_set.update(extract_characters(resolved))
             print(f"  {j}/{len(chunks)} 청크 완료 ({time.time() - t_part:.2f}s)")
@@ -324,7 +327,11 @@ def batch_process_all(root_dir, genre):
 
             input_file = os.path.join(genre_path, fname)
             print(f"\n=== {genre}/{fname} 처리 시작 ===")
-            process_single_book(input_file)
+            try:
+                process_single_book(input_file)
+            except Exception as e:
+                print(f"[ERROR] {input_file} 처리 중 예외 발생: {e}")
+                continue
 
             processed_ids.add(fname)
             save_processed_ids(processed_ids)
