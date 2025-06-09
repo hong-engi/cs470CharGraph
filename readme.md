@@ -39,4 +39,3 @@
 
 * Python 3.9.22
 * 주요 라이브러리: `networkx`, `spacy`, `allennlp`, `rapidfuzz` 등
-* GPU 사용을 권장합니다 (spaCy와 AllenNLP의 성능 개선)
